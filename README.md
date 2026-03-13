@@ -316,3 +316,4 @@ The API provides comprehensive error handling:
 ## License
 
 This project is created for educational purposes.
+News Aggregator API
